@@ -1,5 +1,5 @@
 # :star: git-cheatsheet  :star:
-
+u can download git bash from here https://git-scm.com/downloads
 This Repository is a guide to all the git commands you need to use in case any of these situations arise
 
 ## Index :books:
